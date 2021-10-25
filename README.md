@@ -27,7 +27,7 @@
 🚀 **Interests**
  - [x] Algorithm
  - [x] Contests
- - [x] Xackathons
+ - [x] Hackathons
  - [x] Math / logical problems
 
 
