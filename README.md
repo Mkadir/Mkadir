@@ -23,6 +23,7 @@
  - [x] Git / Github
  - [x] Linux
  - [x] HTML / CSS 
+ - [x] Figma
 
 🚀 **Interests**
  - [x] Algorithm
