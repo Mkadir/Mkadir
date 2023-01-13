@@ -29,10 +29,8 @@
 
 
 
-[![Dynamic name](https://github-readme-stats.vercel.app/api?username=MkadirDev&show_icons=true&theme=radical)](https://github.com/mkadirdev)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkadirdev&layout=compact&theme=radical)](https://github.com/mkadirdev)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MkadirDev/)](https://github.com/mkadirdev)
 
