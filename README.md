@@ -13,9 +13,12 @@
  
  **📚 Hard skills**
  - [x] Python
+ - [x] AsyncIO
  - [x] Django 
- - [x] Telegram bot using Python
+ - [x] FastAPI
+ - [x] Aiogram
  - [x] Sqlite
+ - [x] Postgresql
  - [x] Git / Github
  - [x] Linux
  - [x] HTML / CSS 
