@@ -1,1 +1,1 @@
-👋 Hi I'm **Muhammadali Hakimov** from Uzbekistan/Samarkand `Kibr` 
+👋 Hi I'm **Muhammadali** from Uzbekistan/Samarkand `Kibr` 
